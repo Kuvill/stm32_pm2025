@@ -1,5 +1,6 @@
 CMakeFiles/
 build/
+.cache/
 .idea
 *.cbp
 *.bak
