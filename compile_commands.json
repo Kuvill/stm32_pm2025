@@ -1,32 +1,26 @@
 [
 {
-  "directory": "/home/kuvil/Project/University/labs/embedded/3",
-  "command": "arm-none-eabi-gcc -DSTM32F103C8 -DSTM32F10X_MD -I/home/kuvil/Project/University/labs/embedded/3/cmsis -I/home/kuvil/Project/University/labs/embedded/3/stm32 -mcpu=cortex-m3 -mthumb -std=c99 -fdata-sections -ffunction-sections -mlittle-endian -g3 -O4 -fno-move-loop-invariants -fsigned-char -ffreestanding -o CMakeFiles/stm32_template.dir/stm32/startup/startup_stm32f10x_md.c.o -c /home/kuvil/Project/University/labs/embedded/3/stm32/startup/startup_stm32f10x_md.c",
-  "file": "/home/kuvil/Project/University/labs/embedded/3/stm32/startup/startup_stm32f10x_md.c",
+  "directory": "/home/kuvil/Project/University/labs/embedded/stm32_pm2025",
+  "command": "arm-none-eabi-gcc -DSTM32F103C8 -DSTM32F10X_MD -I/home/kuvil/Project/University/labs/embedded/stm32_pm2025/cmsis -I/home/kuvil/Project/University/labs/embedded/stm32_pm2025/stm32 -mcpu=cortex-m3 -mthumb -std=c99 -fdata-sections -ffunction-sections -mlittle-endian -g3 -O4 -fno-move-loop-invariants -fsigned-char -ffreestanding -o CMakeFiles/stm32_template.dir/stm32/startup/startup_stm32f10x_md.c.o -c /home/kuvil/Project/University/labs/embedded/stm32_pm2025/stm32/startup/startup_stm32f10x_md.c",
+  "file": "/home/kuvil/Project/University/labs/embedded/stm32_pm2025/stm32/startup/startup_stm32f10x_md.c",
   "output": "CMakeFiles/stm32_template.dir/stm32/startup/startup_stm32f10x_md.c.o"
 },
 {
-  "directory": "/home/kuvil/Project/University/labs/embedded/3",
-  "command": "arm-none-eabi-gcc -DSTM32F103C8 -DSTM32F10X_MD -I/home/kuvil/Project/University/labs/embedded/3/cmsis -I/home/kuvil/Project/University/labs/embedded/3/stm32 -mcpu=cortex-m3 -mthumb -std=c99 -fdata-sections -ffunction-sections -mlittle-endian -g3 -O4 -fno-move-loop-invariants -fsigned-char -ffreestanding -o CMakeFiles/stm32_template.dir/stm32/system_stm32f10x.c.o -c /home/kuvil/Project/University/labs/embedded/3/stm32/system_stm32f10x.c",
-  "file": "/home/kuvil/Project/University/labs/embedded/3/stm32/system_stm32f10x.c",
+  "directory": "/home/kuvil/Project/University/labs/embedded/stm32_pm2025",
+  "command": "arm-none-eabi-gcc -DSTM32F103C8 -DSTM32F10X_MD -I/home/kuvil/Project/University/labs/embedded/stm32_pm2025/cmsis -I/home/kuvil/Project/University/labs/embedded/stm32_pm2025/stm32 -mcpu=cortex-m3 -mthumb -std=c99 -fdata-sections -ffunction-sections -mlittle-endian -g3 -O4 -fno-move-loop-invariants -fsigned-char -ffreestanding -o CMakeFiles/stm32_template.dir/stm32/system_stm32f10x.c.o -c /home/kuvil/Project/University/labs/embedded/stm32_pm2025/stm32/system_stm32f10x.c",
+  "file": "/home/kuvil/Project/University/labs/embedded/stm32_pm2025/stm32/system_stm32f10x.c",
   "output": "CMakeFiles/stm32_template.dir/stm32/system_stm32f10x.c.o"
 },
 {
-  "directory": "/home/kuvil/Project/University/labs/embedded/3",
-  "command": "arm-none-eabi-gcc -DSTM32F103C8 -DSTM32F10X_MD -I/home/kuvil/Project/University/labs/embedded/3/cmsis -I/home/kuvil/Project/University/labs/embedded/3/stm32 -mcpu=cortex-m3 -mthumb -std=c99 -fdata-sections -ffunction-sections -mlittle-endian -g3 -O4 -fno-move-loop-invariants -fsigned-char -ffreestanding -o CMakeFiles/stm32_template.dir/syscalls/syscalls.c.o -c /home/kuvil/Project/University/labs/embedded/3/syscalls/syscalls.c",
-  "file": "/home/kuvil/Project/University/labs/embedded/3/syscalls/syscalls.c",
+  "directory": "/home/kuvil/Project/University/labs/embedded/stm32_pm2025",
+  "command": "arm-none-eabi-gcc -DSTM32F103C8 -DSTM32F10X_MD -I/home/kuvil/Project/University/labs/embedded/stm32_pm2025/cmsis -I/home/kuvil/Project/University/labs/embedded/stm32_pm2025/stm32 -mcpu=cortex-m3 -mthumb -std=c99 -fdata-sections -ffunction-sections -mlittle-endian -g3 -O4 -fno-move-loop-invariants -fsigned-char -ffreestanding -o CMakeFiles/stm32_template.dir/syscalls/syscalls.c.o -c /home/kuvil/Project/University/labs/embedded/stm32_pm2025/syscalls/syscalls.c",
+  "file": "/home/kuvil/Project/University/labs/embedded/stm32_pm2025/syscalls/syscalls.c",
   "output": "CMakeFiles/stm32_template.dir/syscalls/syscalls.c.o"
 },
 {
-  "directory": "/home/kuvil/Project/University/labs/embedded/3",
-  "command": "arm-none-eabi-gcc -DSTM32F103C8 -DSTM32F10X_MD -I/home/kuvil/Project/University/labs/embedded/3/cmsis -I/home/kuvil/Project/University/labs/embedded/3/stm32 -mcpu=cortex-m3 -mthumb -std=c99 -fdata-sections -ffunction-sections -mlittle-endian -g3 -O4 -fno-move-loop-invariants -fsigned-char -ffreestanding -o CMakeFiles/stm32_template.dir/main.c.o -c /home/kuvil/Project/University/labs/embedded/3/main.c",
-  "file": "/home/kuvil/Project/University/labs/embedded/3/main.c",
+  "directory": "/home/kuvil/Project/University/labs/embedded/stm32_pm2025",
+  "command": "arm-none-eabi-gcc -DSTM32F103C8 -DSTM32F10X_MD -I/home/kuvil/Project/University/labs/embedded/stm32_pm2025/cmsis -I/home/kuvil/Project/University/labs/embedded/stm32_pm2025/stm32 -mcpu=cortex-m3 -mthumb -std=c99 -fdata-sections -ffunction-sections -mlittle-endian -g3 -O4 -fno-move-loop-invariants -fsigned-char -ffreestanding -o CMakeFiles/stm32_template.dir/main.c.o -c /home/kuvil/Project/University/labs/embedded/stm32_pm2025/main.c",
+  "file": "/home/kuvil/Project/University/labs/embedded/stm32_pm2025/main.c",
   "output": "CMakeFiles/stm32_template.dir/main.c.o"
-},
-{
-  "directory": "/home/kuvil/Project/University/labs/embedded/3",
-  "command": "arm-none-eabi-gcc -DSTM32F103C8 -DSTM32F10X_MD -I/home/kuvil/Project/University/labs/embedded/3/cmsis -I/home/kuvil/Project/University/labs/embedded/3/stm32 -mcpu=cortex-m3 -mthumb -std=c99 -fdata-sections -ffunction-sections -mlittle-endian -g3 -O4 -fno-move-loop-invariants -fsigned-char -ffreestanding -o CMakeFiles/stm32_template.dir/delay.c.o -c /home/kuvil/Project/University/labs/embedded/3/delay.c",
-  "file": "/home/kuvil/Project/University/labs/embedded/3/delay.c",
-  "output": "CMakeFiles/stm32_template.dir/delay.c.o"
 }
 ]

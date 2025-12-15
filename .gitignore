@@ -11,4 +11,6 @@ build/
 CMakeCache.txt
 [M,m]akefile
 
+!build/*.pzw
+
 
